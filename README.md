@@ -12,6 +12,6 @@ SO THE OUTPUT THAT ENSURES WHEATHER THE MACHINE IS IN FAULT CONDIION OR IN AN HE
 
 CHECK OUT THE MODEL BY CLICKING THE BELOW LINK.
 
-LINK: <h1>https://huggingface.co/spaces/Pranavadhar/Fault_detection?logs=container</h1>
+LINK: <h1>https://motor-fault-detection-pranavadhar.streamlit.app/</h1>
 
 NOTE: RESTART THE SPACE IF IT IS SLEEPING...
